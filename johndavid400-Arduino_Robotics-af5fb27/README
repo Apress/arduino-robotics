@@ -1,0 +1,30 @@
+This is the github repo for all of the code in my new book "Arduino Robotics".
+
+I am listing each piece of code in its own folder labeled by what chapter the code is from. There are 13 chapters in the book, though chapters 1-3 are informational and do not contain specific projects, so there will only be snippets of code in these folders (if applicable).
+
+Feel free to download, use, and modify any the code listed here - but be advised that this code is intended to be used for educational, research, and testing purposes only.I do not warrant that this code will work for you, though I have throroughly tested it on my robots.
+
+Chapter index:
+
+   1. The Basics
+   2. Arduino for Robotics
+   3. Let’s Get Moving
+   4. Linus the Line-Bot
+   5. Wally the Wall-Bot
+   6. Making PCBs
+   7. The Bug-Bot
+   8. Explorer-Bot
+   9. RoboBoat
+  10. Lawn-Bot 400
+  11. The Seg-Bot
+  12. The Battle-Bot
+  13. Alternate Control
+
+There may be several pieces of code for each project, depending on the configuration that you chose to use (see book for more information).
+
+For more information on the book:
+http://www.amazon.com/Arduino-Robotics-John-David-Warren/dp/1430231831
+
+Check back later for more updates!
+
+~JD Warren
